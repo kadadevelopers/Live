@@ -49,6 +49,18 @@ https://kadatv.online/fr/videof4.m3u8
 https://kadatv.online/fr/videof5.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",FRANCE Info
 https://kadatv.online/fr/videofranceinfo.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",RMC LIFE
+https://kadatv.online/fr/videormclife.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",RMC STORY
+https://kadatv.online/fr/videormcstory.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",RMC DECOUVERTE
+https://kadatv.online/fr/videormcdecouverte.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",MTV
+https://kadatv.online/fr/videomtv.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",Mezzo
+https://kadatv.online/fr/videomezzo.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",Tvm3
+https://kadatv.online/fr/videotvm3.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",Carac1
 https://kadatv.online/fr/videocarac1.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",Carac2
@@ -67,6 +79,8 @@ https://kadatv.online/fr/videoalpha.m3u8
 https://kadatv.online/fr/videoarte.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",CANAL+
 https://kadatv.online/fr/videocp.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",TRACE LATINA
+https://d3b13j525hja2q.cloudfront.net/23073/Latina/encrypted/4/prog_index.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",T18
 https://tvradiozap.eu/tools/np-m3u8.php/t18
 #EXTINF:-1 tvg-id="Kadatv.com",NOVO19
