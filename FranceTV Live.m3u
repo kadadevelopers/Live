@@ -1,48 +1,48 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Kadatv.com",TF1
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videotf1.m3u8
+https://kadatv.online/fr/videotf1.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",TF1 Séries Films
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videotf1fs.m3u8
+https://kadatv.online/fr/videotf1fs.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",TMC
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videotmc.m3u8
+https://kadatv.online/fr/videotmc.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",TFX
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videotfx.m3u8
+https://kadatv.online/fr/videotfx.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",TCM CINÈMA
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videotcm.m3u8
+https://kadatv.online/fr/videotcm.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",CANAL+
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videocp.m3u8
+https://kadatv.online/fr/videocp.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",W9
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videow9.m3u8
+https://kadatv.online/fr/videow9.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",6ter
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/video6ter.m3u8
+https://kadatv.online/fr/video6ter.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",AB1
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videoab1.m3u8
+https://kadatv.online/fr/videoab1.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",AB3
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videoab3.m3u8
+https://kadatv.online/fr/videoab3.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",RTL9
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videortl9.m3u8
+https://kadatv.online/fr/videortl9.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",RTS1 Suisse
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videorts1.m3u8
+https://kadatv.online/fr/videorts1.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",RTS2 Suisse
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videorts2.m3u8
+https://kadatv.online/fr/videorts2.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",Gulli
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videogulli.m3u8
+https://kadatv.online/fr/videogulli.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",Canal J
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videocanalj.m3u8
+https://kadatv.online/fr/videocanalj.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",CARTOON NETWORK
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videocnw.m3u8
+https://kadatv.online/fr/videocnw.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",PLANETE+
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videoplanete.m3u8
+https://kadatv.online/fr/videoplanete.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",ANIMAUX
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videoanimaux.m3u8
+https://kadatv.online/fr/videoanimaux.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",FRANCE 2
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videof2.m3u8
+https://kadatv.online/fr/videof2.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",FRANCE 3
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videof3.m3u8
+https://kadatv.online/fr/videof3.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",FRANCE 4
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videof4.m3u8
+https://kadatv.online/fr/videof4.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",FRANCE 5
-https://raw.githubusercontent.com/kadadevelopers/live-m3u8/main/fr/videof5.m3u8
+https://kadatv.online/fr/videof5.m3u8
 #EXTINF:-1 tvg-id="TF1.fr",T18
 https://tvradiozap.eu/tools/np-m3u8.php/t18
 #EXTINF:-1 tvg-id="TF1.fr",NOVO19
