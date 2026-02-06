@@ -9,8 +9,8 @@ https://kadatv.online/fr/videotmc.m3u8
 https://kadatv.online/fr/videotfx.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",TCM CINÈMA
 https://kadatv.online/fr/videotcm.m3u8
-#EXTINF:-1 tvg-id="Kadatv.com",CANAL+
-https://kadatv.online/fr/videocp.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",M6
+https://kadatv.online/fr/videom6.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",W9
 https://kadatv.online/fr/videow9.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",6ter
@@ -25,10 +25,8 @@ https://kadatv.online/fr/videortl9.m3u8
 https://kadatv.online/fr/videorts1.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",RTS2 Suisse
 https://kadatv.online/fr/videorts2.m3u8
-#EXTINF:-1 tvg-id="rtsinfo.ch" group-title="news",RTS Info Suisse
+#EXTINF:-1 tvg-id="Kadatv.com",RTS Info Suisse
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
-#EXTINF:-1 tvg-id="rtscouleur3.ch",RTS Couleur3 Suisse
-https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/Couleur3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",Gulli
 https://kadatv.online/fr/videogulli.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",Canal J
@@ -47,17 +45,37 @@ https://kadatv.online/fr/videof3.m3u8
 https://kadatv.online/fr/videof4.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",FRANCE 5
 https://kadatv.online/fr/videof5.m3u8
-#EXTINF:-1 tvg-id="TF1.fr",T18
+#EXTINF:-1 tvg-id="Kadatv.com",FRANCE Info
+https://kadatv.online/fr/videofranceinfo.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",Carac1
+https://kadatv.online/fr/videocarac1.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",Carac2
+https://kadatv.online/fr/videocarac2.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",Carac3
+https://kadatv.online/fr/videocarac3.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",Carac4
+https://kadatv.online/fr/videocarac4.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",Carac5
+https://kadatv.online/fr/videocarac5.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",Trek
+https://kadatv.online/fr/videotrek.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",Alpha
+https://kadatv.online/fr/videoalpha.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",Arte
+https://kadatv.online/fr/videoarte.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",CANAL+
+https://kadatv.online/fr/videocp.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",T18
 https://tvradiozap.eu/tools/np-m3u8.php/t18
-#EXTINF:-1 tvg-id="TF1.fr",NOVO19
+#EXTINF:-1 tvg-id="Kadatv.com",NOVO19
 https://tvradiozap.eu/tools/np-m3u8.php/novo19
-#EXTINF:-1 tvg-id="TF1.fr",CStar
+#EXTINF:-1 tvg-id="Kadatv.com",CStar
 https://tvradiozap.eu/tools/np-m3u8.php/d17
-#EXTINF:-1 tvg-id="TF1.fr",CNews
+#EXTINF:-1 tvg-id="Kadatv.com",CNews
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-id="TF1.fr",Public Sénat
+#EXTINF:-1 tvg-id="Kadatv.com",Public Sénat
 https://tvradiozap.eu/tools/dm-m3u8.php/xkxbzc.m3u8
-#EXTINF:-1 tvg-id="TF1.fr",Tech&Co
+#EXTINF:-1 tvg-id="Kadatv.com",Tech&Co
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr",Voyages+
+#EXTINF:-1 tvg-id="Kadatv.com",Voyages+
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
