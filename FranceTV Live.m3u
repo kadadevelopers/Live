@@ -3,6 +3,8 @@
 https://kadatv.online/fr/videotf1.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",TF1 Séries Films
 https://kadatv.online/fr/videotf1fs.m3u8
+#EXTINF:-1 tvg-id="Kadatv.com",LCI
+https://kadatv.online/fr/videolci.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",TMC
 https://kadatv.online/fr/videotmc.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",TFX
