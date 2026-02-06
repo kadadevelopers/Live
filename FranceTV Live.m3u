@@ -25,6 +25,10 @@ https://kadatv.online/fr/videortl9.m3u8
 https://kadatv.online/fr/videorts1.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",RTS2 Suisse
 https://kadatv.online/fr/videorts2.m3u8
+#EXTINF:-1 tvg-id="rtsinfo.ch" group-title="news",RTS Info Suisse
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+#EXTINF:-1 tvg-id="rtscouleur3.ch",RTS Couleur3 Suisse
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/Couleur3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",Gulli
 https://kadatv.online/fr/videogulli.m3u8
 #EXTINF:-1 tvg-id="Kadatv.com",Canal J
